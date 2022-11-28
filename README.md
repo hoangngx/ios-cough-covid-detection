@@ -22,12 +22,12 @@ Read News, Search News and Navigate nearest clinics feature
 
 
 
-<img src="https://github.com/hoangngx/vn-cough-covid/blob/main/demo-imgs/login_signUp.png" width="500" height="500" />
+<img src="https://github.com/hoangngx/vn-cough-covid/blob/main/demo-imgs/login_signUp.png" width="400" height="500" />
 Log In and Sign Up screen
 
 
 
-<img src="https://github.com/hoangngx/vn-cough-covid/blob/main/demo-imgs/FAQs_feature.png" width="400" height="800" />
+<img src="https://github.com/hoangngx/vn-cough-covid/blob/main/demo-imgs/FAQs_feature.png" width="350" height="750" />
 FAQs (Frequently Asked Questions) feature
 
 
