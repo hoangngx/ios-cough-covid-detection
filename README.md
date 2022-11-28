@@ -3,11 +3,9 @@ Cough Covid Detection on iOS
 
 ## Table of contents
 * [1. Demo](#1-demo)
-* [2. The structures of the repository](#2-the-structures-of-the-repository)
-* [3. Training and prediction](#3-training-and-prediction)
-    * [3.1 Training](#31-training)
-    * [3.2 Prediction](#32-prediction)
-* [4. For tesing with your own audio](#4-for-tesing-with-your-own-audio)
+* [2. Helper functions](#2-helper-functions)
+* [3.Storyboard](#3-storyboard)
+* [4. View Controller](#4-view-controller)
 
 ## 1. Demo
 
@@ -31,3 +29,10 @@ After the app runs, tap the Start button and start coughing; after 5 seconds (yo
 
 <img src="https://github.com/hoangngx/vn-cough-covid/blob/main/demo-imgs/FAQs_feature.png" width="400" height="800" />
 *FAQs (Frequently Asked Questions) feature*
+
+
+## 2. Helper functions
+
+## 3. Storyboard
+
+## 4. View Controller
