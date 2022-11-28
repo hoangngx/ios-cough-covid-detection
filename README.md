@@ -4,7 +4,7 @@ Cough Covid Detection on iOS
 ## Table of contents
 * [1. Demo](#1-demo)
 * [2. Helper functions](#2-helper-functions)
-* [3.Storyboard](#3-storyboard)
+* [3. Storyboard](#3-storyboard)
 * [4. View Controller](#4-view-controller)
 
 ## 1. Demo
