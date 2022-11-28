@@ -13,22 +13,22 @@ After the app runs, tap the Start button and start coughing; after 5 seconds (yo
 
 
 ![alt text](https://github.com/hoangngx/vn-cough-covid/blob/main/demo-imgs/home_demo.png?raw=true)
-*Home Screen Demo*
+Home Screen Demo
 
 
 
 ![alt text](https://github.com/hoangngx/vn-cough-covid/blob/main/demo-imgs/news_maps.png?raw=true)
-*Read News, Search News and Navigate nearest clinics feature*
+Read News, Search News and Navigate nearest clinics feature
 
 
 
 <img src="https://github.com/hoangngx/vn-cough-covid/blob/main/demo-imgs/login_signUp.png" width="500" height="500" />
-*Log In and Sign Up screen*
+Log In and Sign Up screen
 
 
 
 <img src="https://github.com/hoangngx/vn-cough-covid/blob/main/demo-imgs/FAQs_feature.png" width="400" height="800" />
-*FAQs (Frequently Asked Questions) feature*
+FAQs (Frequently Asked Questions) feature
 
 
 ## 2. Helper functions
