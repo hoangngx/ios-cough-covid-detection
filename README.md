@@ -32,6 +32,7 @@ FAQs (Frequently Asked Questions) feature
 
 
 ## 2. Helper functions
+Includes Utilities.swift, which contains fucntions to customize text or buttons, as well as "Check valid password"
 
 ## 3. Storyboard
 
